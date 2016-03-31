@@ -1,0 +1,4 @@
+[submodule "h2server"]
+	path = h2server
+	url = git@github.com:stikkas/h2server.git
+	branch = sic-stores
