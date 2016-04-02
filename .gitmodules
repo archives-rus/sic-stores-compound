@@ -6,3 +6,6 @@
 	path = sic-stores
 	url = git@github.com:archives-rus/sic-stores.git
 	branch = develop
+[submodule "arm-admin"]
+	path = arm-admin
+	url = git@github.com:archives-rus/arm-admin.git
